@@ -1,0 +1,40 @@
+body{
+    background-image: linear-gradient(to bottom right, rgb(80, 59, 121), rgb(128, 63, 119));
+}
+h1{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top: 20px;
+}
+.in{
+    width: 170px;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.162);
+    background: transparent;
+    text-align: center;
+    margin-left: 45%;
+    border: 0%;
+    border-color:rgb(128, 63, 119);
+    color: white;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+    
+.btn1{
+    background-color: rgba(0, 0, 0, 0);
+    float: left;
+    text-align: center;
+    margin-left: 45%;
+    margin-top: 20%;
+    background-color: bisque;
+    color: black;
+    padding: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.btn1:hover{
+    padding: 20px;
+    background-color: black;
+    color:rgb(48, 172, 48);
+}
